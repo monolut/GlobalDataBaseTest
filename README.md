@@ -14,6 +14,6 @@ A Java program that reads a text file containing one word per line and groups to
    git clone https://github.com/monolut/anagram-finder.git
    cd anagram-finder
 2. **Build the project**
-   mvn clean package
+   ```mvn clean package
 3. **Run the program**
-  java -cp target/classes org.example.Main src/main/resources/sample.txt
+  ```java -cp target/classes org.example.Main src/main/resources/sample.txt
