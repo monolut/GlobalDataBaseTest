@@ -15,7 +15,7 @@ A Java program that reads a text file containing one word per line and groups to
    cd anagram-finder
 2. **Build the project**
    ```
-   mvn clean package
-3. **Run the program**
+    mvn clean package
+3. **Run the program with example**
   ```
-   java -cp target/classes org.example.Main src/main/resources/sample.txt
+  java -cp target/classes org.example.Main src/main/resources/sample.txt
