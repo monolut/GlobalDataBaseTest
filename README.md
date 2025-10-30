@@ -12,7 +12,7 @@ A Java program that reads a text file containing one word per line and groups to
 1. **Clone the repository**
    ```bash
    git clone https://github.com/monolut/GlobalDataBaseTest.git
-   cd anagram-finder
+   cd GlobalDataBaseTest
 2. **Build the project**
    ```
     mvn clean package
